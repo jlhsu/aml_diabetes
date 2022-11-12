@@ -9,6 +9,7 @@ def index():
 
 @app.route('/aml', methods=['GET','POST'])
 def aml():
+#    
 # request.values['p1']
 # data = {
 #     "Inputs": {
